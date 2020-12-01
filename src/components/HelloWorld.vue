@@ -3,6 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
       Learn audio and whistle signals for sailors 🦭<br />
+      Under active development <br />
       <a
         href="https://github.com/joshuablum/foghorn"
         target="_blank"
