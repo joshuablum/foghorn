@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/anchor.svg" />
-    <HelloWorld msg="Foghornan" />
+    <HelloWorld msg="Foghorn" />
   </div>
 </template>
 
